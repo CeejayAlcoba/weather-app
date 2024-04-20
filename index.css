@@ -1,0 +1,26 @@
+#image-weather{
+    width: 200px;
+}
+#card-weather{
+    background-color: #153448;
+    color: #DFD0B8;
+
+}
+body{
+    background-color: #3C5B6F;
+    color: #DFD0B8;
+}
+.btn{
+    background-color: #948979;
+    border-radius: 10px;
+    color: #153448;
+}
+.btn:hover{
+    background-color: #DFD0B8;
+    color: #153448;
+}
+select{
+    background-color: #DFD0B8;
+    border-radius: 10px;
+    
+}
